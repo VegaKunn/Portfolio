@@ -41,4 +41,4 @@ function trocar() {
   }
 }
 
-setInterval(trocar, 6000);
+setInterval(trocar, 10000);
