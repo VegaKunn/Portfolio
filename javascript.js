@@ -11,7 +11,7 @@ function trocar() {
     mainDiv.classList = "react";
     tituloH2.textContent = "React.js";
     par.textContent =
-      "Minha principal skill é o desenvolvimento front-end com HTML, CSSe Javascript puro, lidando com o projeto desde a criação até amanutenção sem precisar de dependencias externas conhecendo a base do front-end puro.";
+      "React.js é atualmente o maior Framework js do mercado para desenvolvimento front-end, por esse motivo me especializei nele afim de trazer projetos mais dinamicos e poder trabalhar de forma profissional usando o melhor framework do mercado..";
     bnt.classList = "divTrocar2";
     mudar++;
   } else if (mudar == 2) {
@@ -35,10 +35,10 @@ function trocar() {
     mainDiv.classList = "ht";
     tituloH2.textContent = "Desenvolvimento Web Puro";
     par.textContent =
-      "Minha principal skill é o desenvolvimento front-end com HTML,CSS e Javascript puro, lidando com o projeto desde a criação até a manutenção sem precisar de dependencias externas conhecendo a base do front-end puro.";
+      "Minha principal skill é o desenvolvimento front-end com HTML, CSS e Javascript puro, lidando com o projeto desde a criação até a manutenção sem precisar de dependencias externas conhecendo a base do front-end puro.";
     bnt.classList = "divTrocar";
     mudar = 1;
   }
 }
 
-setInterval(trocar, 10000);
+setInterval(trocar, 7000);
